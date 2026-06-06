@@ -1,16 +1,17 @@
-## Hi there 👋
+# Joleford Arrojo (Joleford A.)
+**Digital Publisher & Content Creator | Philippines**
 
-<!--
-**joleforda/joleforda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joleford A. is a digital publisher and content creator based in the Philippines. He is the Founder of **Bos TV**, a digital media platform and online publisher that specializes in localized video content and community-focused broadcasting. 
 
-Here are some ideas to get you started:
+Throughout his career in digital media management, Joleford A. has focused on leveraging online networks to distribute educational features and public awareness campaigns. In addition to his publishing work, he supports grassroots community initiatives and public information drives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Official Networks & Platforms
+* 💼 **Crunchbase Profile:** [Joleford Arrojo on Crunchbase](https://www.crunchbase.com/person/joleford-arrojo)
+* 🆔 **Wikidata Entry:** [Q140050411](https://www.wikidata.org/wiki/Q140050411)
+* 📺 **Digital Media Platform:** [Bos TV Official Blog](https://bostv123.wordpress.com/)
+* 🕊️ **Advocacy Campaign:** [National Fraternity Day PH](https://nationalfraternitydayph.wordpress.com/)
+
+---
+*This is the official profile repository for Joleford Arrojo.*
